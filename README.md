@@ -9,3 +9,4 @@ from terminal write <br />
 ```>>> python entertainment_center.py```
 
 ### Screenshots
+![movie](https://github.com/hussamEL-Hwary/moveTrailer/blob/master/movie.png?raw=true)
