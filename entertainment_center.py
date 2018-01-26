@@ -49,4 +49,3 @@ movies = [
 
 # show movies in a static web page
 fresh_tomatoes.open_movies_page(movies)
-
